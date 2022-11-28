@@ -12,7 +12,7 @@
     width:50%;
     height:63vh;
     color: #fff;
-  background: var(--color-bg1);
+  background: #6F4E37;
     align-items: center;
     justify-content: center;
 }
@@ -91,7 +91,7 @@ button{
 }
 .submit-btn::after{
     
-    color: #333;
+    color: #306754;
     line-height: 32px;
     font-size: 17px;
     height: 32px;
@@ -110,6 +110,7 @@ span{
 .card .btn{
     margin-top: 70px;
 }
+
 .card a{
     color: #fff;
     text-decoration: none;
